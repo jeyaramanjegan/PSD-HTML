@@ -1,9 +1,9 @@
 # PSD-HTML
 
 **Desktop view**
-![Uploading desktop.png…]()
+![Uploading desktop.png…]
 
 
 **Mobile View**
 
-![Uploading mobile.png…]()
+![Uploading mobile.png…]
